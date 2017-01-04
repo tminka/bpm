@@ -1,5 +1,5 @@
-# bpm
 Bayes Point Machine toolbox
+===========================
 
 The Bayes Point Machine Toolbox requires the [Lightspeed toolbox](https://github.com/tminka/lightspeed).
 
