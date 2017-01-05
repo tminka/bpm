@@ -1,7 +1,9 @@
 Bayes Point Machine toolbox
 ===========================
 
-The Bayes Point Machine Toolbox requires the [Lightspeed toolbox](https://github.com/tminka/lightspeed).
+This toolbox implements the EP algorithms described in ["A family of algorithms for approximate Bayesian inference"](https://tminka.github.io/papers/ep) and ["Expectation Propagation for approximate Bayesian inference"](https://tminka.github.io/papers/ep).
+
+This toolbox requires the [Lightspeed toolbox](https://github.com/tminka/lightspeed).
 
 See Contents.m for a list of functions.  This toolbox uses the
 object-oriented features of Matlab.  You first create a 'task'
